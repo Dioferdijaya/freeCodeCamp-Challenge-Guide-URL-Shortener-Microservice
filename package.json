@@ -10,10 +10,10 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.4.1",
     "mongodb": "^6.1.0",
-    "nodemon": "^3.0.1",
-    "express-rate-limit": "^7.4.1"
+    "nodemon": "^3.0.1"
   },
   "author": "Shehzad Khan"
 }
